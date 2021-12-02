@@ -1,2 +1,2 @@
 # SoccerStars
-Simple game made in Python using Kivy module
+Simple android game made in Python using Kivy module
